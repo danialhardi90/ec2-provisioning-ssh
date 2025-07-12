@@ -1,1 +1,1 @@
-# pulumi-python-demo
+# ec2-provisioning-ssh
